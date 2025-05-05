@@ -507,7 +507,7 @@ function drawBlinker(func1, func2){
 }
   
   function drawStartScreen(){
-    drawBlinker(function(){ drawScreen__line1("Inavsores Espaciais") },
+    drawBlinker(function(){ drawScreen__line1("Invasores Espaciais") },
     function(){ drawScreen__line2("Pressione Enter para Jogar") });
   }
 
